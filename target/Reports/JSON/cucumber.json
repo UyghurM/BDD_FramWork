@@ -1,0 +1,60 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "start_timestamp": "2020-05-31T20:29:45.149Z",
+        "line": 6,
+        "name": "Login test for VyTruck",
+        "description": "",
+        "id": "login-vytruck;login-test-for-vytruck",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "User is on login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "user Enters \"storemanager85\" and \"UserUser123\"",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "click on login button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "user on homepage",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Vytruck",
+    "description": "",
+    "id": "login-vytruck",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/feature3/VyTrack.feature",
+    "tags": []
+  }
+]

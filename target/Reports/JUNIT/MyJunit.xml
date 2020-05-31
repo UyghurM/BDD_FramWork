@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.050043">
+<testcase classname="Login Vytruck" name="Login test for VyTruck" time="0.050043">
+<skipped><![CDATA[Given User is on login page.................................................undefined
+Then user Enters "storemanager85" and "UserUser123".........................undefined
+And click on login button...................................................undefined
+Then user on homepage.......................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>

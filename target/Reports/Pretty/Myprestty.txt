@@ -1,0 +1,7 @@
+Feature: Login Vytruck
+
+  Scenario: Login test for VyTruck                      [90m# src/test/resources/Features/feature3/VyTrack.feature:6[0m
+    [33mGiven [0m[33mUser is on login page[0m                         [90m# null[0m
+    [33mThen [0m[33muser Enters "storemanager85" and "UserUser123"[0m [90m# null[0m
+    [33mAnd [0m[33mclick on login button[0m                           [90m# null[0m
+    [33mThen [0m[33muser on homepage[0m                               [90m# null[0m
